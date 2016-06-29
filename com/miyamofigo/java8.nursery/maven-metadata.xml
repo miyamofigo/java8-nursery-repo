@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.miyamofigo</groupId>
+  <artifactId>java8.nursery</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160629061306</lastUpdated>
+  </versioning>
+</metadata>
